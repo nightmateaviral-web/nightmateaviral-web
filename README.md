@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi im a student from India currently just graduated from School and about to start college in a few months
+I like working on robotics and projects integrating robotics and IOT
+Im currently working on a fnaf inspired animatronic project which will have 2 basic animatronic eyes moving left to right ( face tracking) and blinks randomly when nobody's around
 
 <!--
 **nightmateaviral-web/nightmateaviral-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
