@@ -4,10 +4,10 @@ I’m a student from India interested in robotics, embedded systems, computer vi
 
 Currently building:
 
-* 🤖 Animatronic robotic eye systems
-* 👁️ Raspberry Pi face tracking using OpenCV
-* ⚙️ Servo-based motion systems
-* 🔌 Arduino and embedded electronics projects
+*  Animatronic robotic eye systems
+*  Raspberry Pi face tracking using OpenCV
+*  Servo-based motion systems
+*  Arduino and embedded electronics projects
 
 ### Technologies I work with
 
