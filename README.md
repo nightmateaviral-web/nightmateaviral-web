@@ -1,6 +1,6 @@
 # Hi, I'm Aviral 👋
 
-I’m a student from India interested in robotics, embedded systems, computer vision, and IoT.
+Aspiring robotics and embedded systems engineer interested in robotics, embedded systems, computer vision, and IoT.
 
 Currently building:
 
