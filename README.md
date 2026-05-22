@@ -9,15 +9,21 @@ Currently building:
 *  Servo-based motion systems
 *  Arduino and embedded electronics projects
 
-### Technologies I work with
+### Programming Languages
 
-* Arduino
-* Raspberry Pi
 * Python
 * C++
+* Arduino (Embedded C/C++)
+
+### Technologies & Tools
+
+* Raspberry Pi
+* Arduino
 * OpenCV
 * Computer Vision
-* Robotics
 * Embedded Systems
+* Robotics
+* IoT
 
 I enjoy building interactive robotic systems that combine mechanics, electronics, and software.
+
