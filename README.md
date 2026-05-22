@@ -1,16 +1,23 @@
-Hi im a student from India currently just graduated from School and about to start college in a few months
-I like working on robotics and projects integrating robotics and IOT
-<!--
-**nightmateaviral-web/nightmateaviral-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aviral 👋
 
-Here are some ideas to get you started:
+I’m a student from India interested in robotics, embedded systems, computer vision, and IoT.
 
-- 🔭 I’m currently working on  a fnaf inspired animatronic project which will have 2 basic animatronic eyes moving left to right ( face tracking) and blinks randomly when nobody's around.
-- 🌱 I’m currently learning arduino and raspberry pi.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building:
+
+* 🤖 Animatronic robotic eye systems
+* 👁️ Raspberry Pi face tracking using OpenCV
+* ⚙️ Servo-based motion systems
+* 🔌 Arduino and embedded electronics projects
+
+### Technologies I work with
+
+* Arduino
+* Raspberry Pi
+* Python
+* C++
+* OpenCV
+* Computer Vision
+* Robotics
+* Embedded Systems
+
+I enjoy building interactive robotic systems that combine mechanics, electronics, and software.
