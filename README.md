@@ -5,7 +5,7 @@ Aspiring robotics and embedded systems engineer interested in robotics, embedded
 Currently building:
 
 *  Animatronic robotic eye systems
-*  Raspberry Pi face tracking using OpenCV
+*  Face Tracking System Real-time face detection and servo control using OpenCV and Raspberry Pi.
 *  Servo-based motion systems
 *  Arduino and embedded electronics projects
 
@@ -14,6 +14,22 @@ Currently building:
 * Python
 * C++
 * Arduino (Embedded C/C++)
+
+
+## Featured Projects
+
+### Animatronic Eyes
+- 3D printed eye mechanism
+- Arduino controlled servos
+- Joystick eye movement
+- Autonomous blinking
+- Future integration with computer vision
+
+### Face Tracking System
+- OpenCV based face detection
+- Servo-driven eye tracking
+- Raspberry Pi implementation
+
 
 ### Technologies & Tools
 
